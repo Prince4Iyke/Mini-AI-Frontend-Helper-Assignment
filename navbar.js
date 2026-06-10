@@ -1,7 +1,7 @@
 function Navbar() {
     return `
         <nav class="navbar">
-            <h2>AI Helper</h2>
+            <h2>AI Frontend Helper Project</h2>
 
             <ul>
                 <li><a href="#home">Home</a></li>
